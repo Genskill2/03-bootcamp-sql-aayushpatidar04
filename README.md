@@ -95,6 +95,3 @@ queries for this. First to delete all the history mappings in the
 former, you can use subqueries (e.g. delete from books_subject where
 id in (...))
 
-
-
-
